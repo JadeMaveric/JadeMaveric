@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Julius! 👋
 - 🔭 I’m currently working on Emotional Analysis from Textual data. (also, image processing and compiler design)
 - 🌱 I’m currently learning Affective Computing, non-visual UX, linux administration
 - 👯 I’m looking to collaborate on anything involving a lot of data
