@@ -6,6 +6,8 @@
 - 💬 Ask me about Data Structures and Algorithms, Python (especially data science stuff) or help installing and managing Arch
 - 📫 How to reach me: [Twitter](https://twitter.com/JuliusAlphonso)
 - ⚡ Fun fact: I love music! I play the piano and enjoy all sorts of weird jazz stuff. If you find something I'd like (songs, theory, or anything else), my twitter DMs are always open.
+  
+[![JadeMaveric's Codewars Honor](https://www.codewars.com/users/JadeMaveric/badges/large)](https://www.codewars.com/users/JadeMaveric)
 
 [![JadeMaveric's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMaveric&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![JadeMaveric's github stats](https://github-readme-stats.vercel.app/api?username=JadeMaveric&hide=issues&show_icons=true&theme=dark&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
