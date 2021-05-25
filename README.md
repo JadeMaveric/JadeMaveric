@@ -1,7 +1,7 @@
 ### Hi there, I'm Julius! 👋
-- 🔭 I’m currently working on Emotional Analysis from Textual data. (also, image processing and compiler design)
+- 🔭 I’m currently working on Extracting emotions from Textual data.
 - 🌱 I’m currently learning Affective Computing, non-visual UX, linux administration
-- 👯 I’m looking to collaborate on anything NLP / MERN stack projects
+- 👯 I’m looking to collaborate on any ML / MERN stack projects
 - 🤔 I’m looking for help with BERT transformers
 - 💬 Ask me about Data Structures and Algorithms, Python (especially data science stuff) or help installing and managing Arch
 - 📫 How to reach me: [Twitter](https://twitter.com/JuliusAlphonso)
